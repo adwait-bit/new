@@ -1,0 +1,14 @@
+.register{
+    background-image: url(helpcenter.png);
+    background-size: cover;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-blend-mode: lighten;
+    /* background-image: linear-gradient(); */
+    
+}
+.register label{
+    color: crimson;
+    font-weight: 600;
+    font-size:large ;
+}
